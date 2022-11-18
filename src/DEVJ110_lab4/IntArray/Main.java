@@ -7,7 +7,9 @@ public class Main {
 
     public static void main(String[] args) {
         /*Создаем целочисленый массив*/
-         Binary binary = new Binary();
+
+        Binary binary = new Binary();
+
 
 
         System.out.println("Печатаем целочисленный массив");
